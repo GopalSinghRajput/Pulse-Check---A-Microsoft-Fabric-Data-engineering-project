@@ -81,7 +81,7 @@ SerpApi → Data Pipeline → Lakehouse → Notebook (ETL + VADER)
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://github.com/GopalSinghRajput/Pulse-Check---A-Microsoft-Fabric-Data-engineering-project/blob/dee4e12fd2ea19d052d33b2ac3564638dde29d5c/Pulse%20Check%20What%20the%20News%20Says%20About%20AI%20in%20Healthcare_page-0001.jpg)
 
 ### Features:
 - % Sentiment Cards (Positive, Negative, Neutral, Mixed)
