@@ -7,7 +7,7 @@
 
 ## 📌 Architecture
 
-![Architecture](Pulse Check What the News Says About AI in Healthcare_page-0001.jpg)
+![Architecture](https://github.com/GopalSinghRajput/Pulse-Check---A-Microsoft-Fabric-Data-engineering-project/blob/1ca71a2fc2443cd43006b4f5e01f5f63d0b711c5/file_2025-07-16_16.49.57.png)
 
 **Tools Used:**
 - SerpApi (REST API)
