@@ -105,25 +105,6 @@ SerpApi → Data Pipeline → Lakehouse → Notebook (ETL + VADER)
 
 ---
 
-## 🧾 Folder Structure
-
-```
-📂 Healthcare-AI-Sentiment
-│
-├── 📸 assets/
-│   ├── architecture-diagram.png
-│   ├── dashboard.png
-│
-├── 📓 notebooks/
-│   └── sentiment_pipeline.ipynb
-│
-├── 📈 powerbi/
-│   └── report.pbix
-│
-└── README.md
-```
-
----
 
 ## ✍️ Author
 
