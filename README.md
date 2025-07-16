@@ -109,8 +109,7 @@ SerpApi → Data Pipeline → Lakehouse → Notebook (ETL + VADER)
 ## ✍️ Author
 
 **Gopal Singh**  
-BTech CSE (AI/ML), VIT  
-LinkedIn: ![https://www.linkedin.com/in/gopal-singh-s-49b62a166/](#)
+[LinkedIn](https://www.linkedin.com/in/gopal-singh-s-49b62a166/)
 
 ---
 
