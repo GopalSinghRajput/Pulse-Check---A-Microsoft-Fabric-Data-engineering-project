@@ -7,7 +7,7 @@
 
 ## 📌 Architecture
 
-![Architecture](assets/architecture-diagram.png)
+![Architecture](Pulse Check What the News Says About AI in Healthcare_page-0001.jpg)
 
 **Tools Used:**
 - SerpApi (REST API)
